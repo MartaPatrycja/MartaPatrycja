@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MartaPatrycja
-- 👀 I’m interested in world around me
-- 🌱 I’m currently learning front end
-- 💞️ I’m looking to collaborate on new projects
+- 👀 I’m interested in world around me!
+- 🌱 I’m currently learning front-end.
+- 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me marta.patrycja.web.dev@gmail.com
 
 <!---
