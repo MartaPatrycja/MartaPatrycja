@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MartaPatrycja
-- 👀 What excites me is innovation and pushing the boundaries of what is possible.
+- 👀 What excites me is innovating, experimenting and pushing the boundaries of what is possible.
 - 🌱 I’m currently learning front-end.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me marta.patrycja.web.dev@gmail.com
